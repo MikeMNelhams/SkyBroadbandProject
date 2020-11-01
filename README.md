@@ -1,4 +1,5 @@
 # SkyBroadbandProject
-Private access to the following Phase A MDM3 problem. 
+Public access to the following problem presented by Sky Broadband. 
+All of the data has been collected by OfCom for public access.
 
 The google colab notebook is uploaded and updated through G-Suite and Github. 
