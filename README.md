@@ -8,4 +8,4 @@ Our research paper and findings are attached as ```Sky_Broadband.pdf```.
 
 ***
 
-![PaperPreviewSample](/SpermTrackingPaper_Page_11.png)
+![PaperPreviewSample](/)
