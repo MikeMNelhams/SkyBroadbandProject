@@ -8,4 +8,4 @@ Our research paper and findings are attached as ```Sky_Broadband.pdf```.
 
 ***
 
-![PaperPreviewSample](/Sky_Broadband_Page_04.png)
+![PaperPreviewSample](/Sky_Broadband_Page_10.png)
